@@ -1,5 +1,5 @@
 # CineHub
-This is a movies watchlist aiming to make movie lovers' lives easier.<br><br />
+This is a movies **WatchList** web application aiming to make movie lovers' lives easier.<br><br />
 # Demo-Preview
 ![Demo](./demo/plots/demo.png "Demo")
 # Table of contents
@@ -9,9 +9,9 @@ This is a movies watchlist aiming to make movie lovers' lives easier.<br><br />
 - [Development](#development)
 - [Contribute](#contribute)
 # Usage
-This **Movie WatchList** application allow users to search for their prefered movies from a large collection of all types and styles of movies, and either save them for future watch or move the alreard watched ones to their respective list.
+This **Movie WatchList** application allow users to search for their prefered movies from a large collection of all types and styles of movies, and either save them for future watch or move the alreard watched ones to their respective list. <br><br />
 ![Demo](./demo/plots/demo_watchlist.png "Demo")
-> **_NOTE:_**  Movies can be mover back and forth between the **WatchList** and **Watched** list using the *eye* and *cancel* icons on top of each movie poster.
+> **_NOTE:_**  Movies can be moved back and forth between the **WatchList** and **Watched** list using the *eye* and *cancel* icons on top of each movie poster.
 # Development
 - This web application was developed using the best React practices, leveraging some of the latest concepts like the **ContectApi**, **Props**, and **Hooks**.
 - The movies are fetched from the [**The Movie Database (TMDB) API**](https://www.themoviedb.org/)
