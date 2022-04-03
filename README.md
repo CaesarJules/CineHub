@@ -17,7 +17,7 @@ This **Movie WatchList** application allow users to search for their prefered mo
 - The movies are fetched from the [**The Movie Database (TMDB) API**](https://www.themoviedb.org/)
 - For the moment, the app uses local storage to persist the data, I look forward to adding authentication, and power the app with a backend API and a SQL/NoSQL Database.
 
-> **_NOTE:_** If you are interested in testing the app on your own, I would suggest to download the repository; from the root directory, run **`npm start`** and open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> **_NOTE:_** If you are interested in testing the app on your own, I would suggest to download the repository first; and then from the root directory, run **`npm start`** and finally open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 # Contribute
 For any suggestion or feedback, please feel free to reach out to me via [email](mailto:njucesar@gmail.com).
 # License
