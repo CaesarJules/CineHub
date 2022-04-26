@@ -1,5 +1,5 @@
 # CineHub
-This is a movies **WatchList** web application aiming to make movie lovers' lives easier.<br><br />
+This is a movie **WatchList** web application aiming to make movie lovers' lives easier.<br><br />
 # Demo-Preview
 ![Demo](./demo/plots/demo.png "Demo")
 # Table of contents
